@@ -1,5 +1,7 @@
-This is my resume as a CLI.
+This is my resume as CLI in rust.
 
 You need to have rust install.
-then compile with '''rustc borisResume.rs'''
-and run the program with option --help to check what is available.
+
+Then compile with `rustc borisResume.rs`.
+
+Run the program with option `--help` to check which option is available.
